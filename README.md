@@ -24,6 +24,12 @@
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
   <img width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" height="35" alt="mysql logo"  />
+  <img width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" height="35" alt="postgreSQL logo"  />
+  <img width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-plain-wordmark.svg" height="35" alt="pandas logo"  />
+  <img width="40" />
 </div>
 
 ###

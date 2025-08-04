@@ -29,7 +29,7 @@
   <img src="https://devicon-website.vercel.app/api/css3/original-wordmark.svg" width="40"></img>
   <img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="40"></img>
   <img src="https://devicon-website.vercel.app/api/git/original.svg" width="40"></img>
-  <img src="https://devicon-website.vercel.app/api/github/original.svg" width="40"></img>
+  <img src="https://devicon-website.vercel.app/api/github/original.svg?color=%238F8F8F" width="40"></img>
   
 </div>
   

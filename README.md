@@ -14,39 +14,22 @@
   
 <div align="center">
   <img src="https://devicon-website.vercel.app/api/django/plain.svg" width="40"></img>
-  <img width="40" />
-  <img src="https://devicon-website.vercel.app/api/arduino/original-wordmark.svg"></img>
-  <img width="40" />
-  <img src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg"></img>
-  <img width="40" />
-  <img src="https://devicon-website.vercel.app/api/fastapi/original-wordmark.svg"></img>
-  <img width="40" />
-  <img src="https://devicon-website.vercel.app/api/flask/original-wordmark.svg"></img>
-  <img width="40" />
-  <img src="https://devicon-website.vercel.app/api/java/original-wordmark.svg"></img>
-  <img width="40" />
-  <img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg"></img>
-  <img width="40" />
-  <img src="https://devicon-website.vercel.app/api/postgresql/plain-wordmark.svg"></img>
-  <img width="40" />
-  <img src="https://devicon-website.vercel.app/api/pandas/original-wordmark.svg"></img>
-  <img width="40" />
-  <img src="https://devicon-website.vercel.app/api/python/original-wordmark.svg"></img>
-  <img width="40" />
-  <img src="https://devicon-website.vercel.app/api/typescript/original.svg"></img>
-  <img width="40" />
-  <img src="https://devicon-website.vercel.app/api/react/original-wordmark.svg"></img>
-  <img width="40" />
-  <img src="https://devicon-website.vercel.app/api/html5/original-wordmark.svg"></img>
-  <img width="40" />
-  <img src="https://devicon-website.vercel.app/api/css3/original-wordmark.svg"></img>
-  <img width="40" />
-  <img src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
-  <img width="40" />
-  <img src="https://devicon-website.vercel.app/api/git/original.svg"></img>
-  <img width="40" />
-  <img src="https://devicon-website.vercel.app/api/github/original.svg"></img>
-  <img width="40" />
+  <img src="https://devicon-website.vercel.app/api/arduino/original-wordmark.svg" width="40"></img>
+  <img src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg" width="40"></img>
+  <img src="https://devicon-website.vercel.app/api/fastapi/original-wordmark.svg" width="40"></img>
+  <img src="https://devicon-website.vercel.app/api/flask/original-wordmark.svg" width="40"></img>
+  <img src="https://devicon-website.vercel.app/api/java/original-wordmark.svg" width="40"></img>
+  <img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg" width="40"></img>
+  <img src="https://devicon-website.vercel.app/api/postgresql/plain-wordmark.svg" width="40"></img>
+  <img src="https://devicon-website.vercel.app/api/pandas/original-wordmark.svg" width="40"></img>
+  <img src="https://devicon-website.vercel.app/api/python/original-wordmark.svg" width="40"></img>
+  <img src="https://devicon-website.vercel.app/api/typescript/original.svg" width="40"></img>
+  <img src="https://devicon-website.vercel.app/api/react/original-wordmark.svg" width="40"></img>
+  <img src="https://devicon-website.vercel.app/api/html5/original-wordmark.svg" width="40"></img>
+  <img src="https://devicon-website.vercel.app/api/css3/original-wordmark.svg" width="40"></img>
+  <img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="40"></img>
+  <img src="https://devicon-website.vercel.app/api/git/original.svg" width="40"></img>
+  <img src="https://devicon-website.vercel.app/api/github/original.svg" width="40"></img>
   
 </div>
   

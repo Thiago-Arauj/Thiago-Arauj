@@ -13,7 +13,7 @@
 ###
   
 <div align="center">
-  <img src="https://devicon-website.vercel.app/api/django/plain.svg"></img>
+  <img src="https://devicon-website.vercel.app/api/django/plain.svg" width="40"></img>
   <img width="40" />
   <img src="https://devicon-website.vercel.app/api/arduino/original-wordmark.svg"></img>
   <img width="40" />

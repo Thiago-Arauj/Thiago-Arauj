@@ -17,7 +17,7 @@
   <img src="https://devicon-website.vercel.app/api/arduino/original-wordmark.svg" width="40"></img>
   <img src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg" width="40"></img>
   <img src="https://devicon-website.vercel.app/api/fastapi/original-wordmark.svg" width="40"></img>
-  <img src="https://devicon-website.vercel.app/api/flask/original-wordmark.svg" width="40"></img>
+  <img src="https://devicon-website.vercel.app/api/flask/original-wordmark.svg?color=%238F8F8F" width="40"></img>
   <img src="https://devicon-website.vercel.app/api/java/original-wordmark.svg" width="40"></img>
   <img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg" width="40"></img>
   <img src="https://devicon-website.vercel.app/api/postgresql/plain-wordmark.svg" width="40"></img>

@@ -13,24 +13,41 @@
 ###
   
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="35" alt="html5 logo"  />
+  <img src="https://devicon-website.vercel.app/api/django/plain.svg"></img>
   <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="35" alt="css3 logo"  />
+  <img src="https://devicon-website.vercel.app/api/arduino/original-wordmark.svg"></img>
   <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg"></img>
   <img width="40" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" height="35" alt="mysql logo"  />
+  <img src="https://devicon-website.vercel.app/api/fastapi/original-wordmark.svg"></img>
   <img width="40" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg" height="35" alt="mysql logo"  />
+  <img src="https://devicon-website.vercel.app/api/flask/original-wordmark.svg"></img>
   <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img src="https://devicon-website.vercel.app/api/java/original-wordmark.svg"></img>
   <img width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" height="35" alt="mysql logo"  />
+  <img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg"></img>
   <img width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" height="35" alt="postgreSQL logo"  />
+  <img src="https://devicon-website.vercel.app/api/postgresql/plain-wordmark.svg"></img>
   <img width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-plain-wordmark.svg" height="35" alt="pandas logo"  />
+  <img src="https://devicon-website.vercel.app/api/pandas/original-wordmark.svg"></img>
   <img width="40" />
+  <img src="https://devicon-website.vercel.app/api/python/original-wordmark.svg"></img>
+  <img width="40" />
+  <img src="https://devicon-website.vercel.app/api/typescript/original.svg"></img>
+  <img width="40" />
+  <img src="https://devicon-website.vercel.app/api/react/original-wordmark.svg"></img>
+  <img width="40" />
+  <img src="https://devicon-website.vercel.app/api/html5/original-wordmark.svg"></img>
+  <img width="40" />
+  <img src="https://devicon-website.vercel.app/api/css3/original-wordmark.svg"></img>
+  <img width="40" />
+  <img src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
+  <img width="40" />
+  <img src="https://devicon-website.vercel.app/api/git/original.svg"></img>
+  <img width="40" />
+  <img src="https://devicon-website.vercel.app/api/github/original.svg"></img>
+  <img width="40" />
+  
 </div>
   
 ###

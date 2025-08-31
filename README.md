@@ -26,7 +26,7 @@
   <img src="https://devicon-website.vercel.app/api/typescript/original.svg" width="40"></img>
   <img src="https://devicon-website.vercel.app/api/react/original-wordmark.svg" width="40"></img>
   <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" width="40"></img>
-  <img src="https://devicon-website.vercel.app/api/nextjs/original.svg" width="40"></img>
+  <img src="https://devicon-website.vercel.app/api/nextjs/original.svg?color=%236F6F6F" width="40"></img>
   <img src="https://devicon-website.vercel.app/api/html5/original-wordmark.svg" width="40"></img>
   <img src="https://devicon-website.vercel.app/api/css3/original-wordmark.svg" width="40"></img>
   <img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="40"></img>
